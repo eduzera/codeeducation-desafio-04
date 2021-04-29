@@ -1,5 +1,5 @@
 name: ci-nodejs-workflow
-on: [pullrequest]
+on: [push]
 jobs:
   check-applications:
     runs-on: ubuntu-latest
