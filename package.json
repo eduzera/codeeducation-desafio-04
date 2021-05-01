@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "consolidar os conhecimentos em relação a criação de uma pipeline de CI",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "author": "Eduardo Zaghi",
   "license": "ISC",
